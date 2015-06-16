@@ -158,14 +158,3 @@ if found_strs.length > 0 then
 else
 	puts "No strings were found."
 end
-
-#puts found_strs
-
-# this program can be used to scan a file for strings encoded with Shift-JIS. 
-
-# If you use the following command:
-
-# A table with all the strings in the executable, together with the corresponding addresses of these strings will be printed. Note that the table is encoded using Shift-JIS. 
-# For more advanced usage, do
-
-# ./scan_shift_jis.rb --help
