@@ -1,6 +1,6 @@
 
 # scan-shift-jis.rb
-This script can be used to scan a file for strings encoded with Shift-JIS. 
+This script can be used to scan a file for Japanese strings encoded with Shift-JIS. 
 
 ## Usage
 
